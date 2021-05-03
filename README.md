@@ -1,4 +1,3 @@
-# CMPT 276 project for group 12
 
 **Group Members:**
 - Antonio Benzan
